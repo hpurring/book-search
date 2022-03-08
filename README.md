@@ -22,8 +22,8 @@
   ## Usage
   Use this site to search for books and to create reading lists.
   
-  ![Book Search](https://github.com/hpurring/react-portfolio/blob/main/src/assets/photos/react-app-screenshot.png)
-  [Try out Book Search!](https://hpurring.github.io/react-portfolio/)
+  ![Book Search](https://github.com/hpurring/book-search/blob/main/client/public/Screen%20Shot%202022-03-08%20at%206.11.24%20PM.png)
+  [Try out Book Search!](https://shrouded-island-29465.herokuapp.com/)
 
 
   ## Credits
